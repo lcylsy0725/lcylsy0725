@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ... 
+
 <!--
 **lcylsy0725/lcylsy0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
